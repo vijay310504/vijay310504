@@ -1,225 +1,206 @@
-```html
-<h1 align="center">Hi 👋, I'm Vijay N V</h1>
-<h3 align="center">Full Stack Java Developer | Software Developer | AWS Cloud Enthusiast</h3>
+````html
+<!-- ======================================================= -->
+<!--                 PREMIUM GITHUB PROFILE                 -->
+<!--                       VIJAY N V                        -->
+<!-- ======================================================= -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+Developer;Java+%7C+MySQL+%7C+AWS+Cloud;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
-</p>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1D4ED8,100:06B6D4&height=8&section=header" width="100%"/>
+
+  <h1>Hi 👋, I'm Vijay N V</h1>
+
+  <h3>Full Stack Java Developer | Backend Developer | AWS Cloud Enthusiast</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Reliable+Backend+Systems;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+JWT+Authentication;MySQL+%7C+JPA+%7C+Hibernate;Full+Stack+Web+Application+Development;Turning+Ideas+Into+Practical+Solutions" alt="Typing Animation"/>
+
+  <br/>
+
+  <p>
+    <a href="https://github.com/vijay310504">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/vijaynv31">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:nvvijay10@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=vijay310504&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile Views"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech Computer Science and Engineering Graduate
+```java
+public class Vijay {
 
-💼 Passionate Full Stack Java Developer with hands-on experience in developing web applications using Java, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript, and AWS.
+    String name = "Vijay N V";
+    String degree = "B.Tech Computer Science and Engineering";
 
-🚀 Strong understanding of:
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Database Design
-- REST API Development
-- Backend Development
-- MVC Architecture
-- Authentication and Authorization
+    String[] primarySkills = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "REST APIs",
+        "MySQL",
+        "JPA",
+        "Hibernate"
+    };
 
-🌱 Currently improving my skills in:
-- Spring Security
-- Microservices
-- AWS Cloud
-- System Design
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "Cloud Computing",
+        "Software Engineering"
+    };
 
-🎯 Looking for Software Developer / Java Backend Developer opportunities.
+    String currentFocus =
+        "Building secure and scalable web applications";
+
+    String careerGoal =
+        "Java Developer | Backend Developer | Software Engineer";
+}
+````
+
+🎓 Computer Science and Engineering graduate from Kalasalingam Academy of Research and Education.
+
+💻 Passionate about building full-stack applications, secure REST APIs, and database-driven software solutions.
+
+🔐 Interested in authentication, authorization, role-based access control, and secure application development.
+
+☁️ Exploring AWS cloud technologies and modern software engineering practices.
+
+🚀 Currently developing **DR.CARCARE**, a vehicle service management platform designed to streamline garage operations.
+
+🎯 Open to opportunities in Java Development, Backend Development, and Full Stack Software Engineering.
 
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Technical Skills
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vijaynv31">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/vijay310504">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:nvvijay10@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python"/>
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java and Python"/>
 </p>
 
-### Frontend
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript and Bootstrap"/>
 </p>
 
-### Backend & Database
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot, MySQL"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/MVC_Architecture-1D4ED8?style=for-the-badge" alt="MVC Architecture"/>
 </p>
 
-### Cloud
+### 🗄️ Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/JPA-2F6B9A?style=for-the-badge" alt="JPA"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### ☁️ Cloud & Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/Amazon_Lex-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Lex"/>
+  <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Amazon Route 53"/>
 </p>
 
-### Tools & IDEs
+### 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code, IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code and IntelliJ IDEA"/>
 </p>
+
+### 🧠 Computer Science Fundamentals
+
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* Database Design
+* Software Development Life Cycle
+* Debugging and Testing
+* Problem Solving
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚗 DR.CARCARE – Vehicle Service Management System
+### 🚗 DR.CARCARE — Vehicle Service Management System
 
-**Full-Stack Web Application | Java | Spring Boot | MySQL | JavaScript**
+**Full Stack | Java 21 | Spring Boot | MySQL | JavaScript**
 
-Engineered a full-stack vehicle service management platform using Java, Spring Boot, MySQL, REST APIs, and MVC architecture to streamline garage operations and vehicle servicing workflows.
+A full-stack vehicle service management platform designed to organize garage operations, customer information, vehicle records, bookings, and service history.
 
-### ✨ Key Features
+**Key Features**
 
-- 🔐 **Secure Authentication & Authorization:** Implemented Spring Security and JWT-based authentication with role-based access control for Admin and Customer modules.
-- 🗄️ **Database Management:** Designed and managed relational data using MySQL, JPA, and Hibernate for customer, vehicle, booking, appointment, and service-history workflows.
-- 🔧 **Vehicle & Service Management:** Developed workflows for vehicle registration, service bookings, appointment management, and service-history tracking.
-- 🌐 **Responsive Frontend:** Built a responsive interface using HTML5, CSS3, and JavaScript with REST API integration.
-- 📊 **Garage Operations:** Supported customer management, vehicle management, service tracking, and administrative operations through dedicated application modules.
+* 🔐 Implemented authentication and authorization using Spring Security and JWT.
+* 👥 Designed role-based access control for Admin and Customer modules.
+* 🗄️ Managed relational data using MySQL, JPA, and Hibernate.
+* 🚘 Developed customer and vehicle management workflows.
+* 📅 Implemented service booking and appointment management workflows.
+* 🔧 Supported service tracking and service-history management.
+* 🌐 Built a responsive frontend using HTML5, CSS3, and JavaScript.
+* 🔗 Integrated frontend functionality with backend REST APIs.
 
-### 🛠️ Tech Stack
+**Tech Stack**
 
+`Java` `Spring Boot` `Spring Security` `JWT` `REST APIs` `MVC` `MySQL` `JPA` `Hibernate` `HTML5` `CSS3` `JavaScript`
+
+<!-- Add your repository and live demo links when available. -->
+
+<!--
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js" alt="Java, Spring Boot, MySQL, HTML, CSS, JavaScript"/>
+  <a href="YOUR_DRCARCARE_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+  <a href="YOUR_DRCARCARE_LIVE_DEMO_URL">
+    <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
 </p>
-
-**Core Technologies:** Java 21 | Spring Boot | Spring Security | JWT | REST APIs | MVC Architecture | Spring Data JPA | Hibernate | MySQL | HTML5 | CSS3 | JavaScript
-
----
-
-## 🎯 Smart Interview Management System
-
-**Java | Spring Boot | JWT | MySQL | HTML | CSS | Bootstrap | JavaScript**
-
-### ✨ Key Features
-
-- ✔ Role-based Authentication
-- ✔ Candidate Management
-- ✔ Interview Scheduling
-- ✔ Coding Assessments
-- ✔ Feedback Management
+-->
 
 ---
 
-## 🤖 Hotel Management Chatbot
+### 🎯 Smart Interview Management System
 
-**AWS Lex | Cloud Computing**
+**Java | Spring Boot | MySQL | REST APIs | JWT**
 
-### ✨ Key Features
+A role-based interview management application designed to support interview scheduling, candidate tracking, assessments, and feedback.
 
-- ✔ Natural Language Processing
-- ✔ Room Booking Assistance
-- ✔ Automated Customer Query Handling
+**Key Features**
 
----
+* 🔐 JWT-based authentication and authorization.
+* 👥 Dedicated Admin, Recruiter, and Candidate modules.
+* 📅 Interview scheduling and application tracking.
+* 💻 Coding assessment management.
+* 📝 Interview feedback management.
+* 🌐 Responsive interfaces integrated with REST APIs.
 
-## ☎ Telecom Billing Management System
+**Tech Stack**
 
-**Python | MySQL**
-
-### ✨ Key Features
-
-- ✔ Customer Management
-- ✔ Billing Engine
-- ✔ Call Record Processing
+`Java` `Spring Boot` `JWT` `MySQL` `REST APIs` `HTML` `CSS` `Bootstrap` `JavaScript`
 
 ---
 
-## 🌐 Static Hotel Website Hosting
+### 🤖 Hotel Management Chatbot
 
-**Amazon S3 | Amazon Route 53**
+**AWS Lex | Amazon S3 | HTML | CSS | JavaScript**
 
-### ✨ Key Features
-
-- ✔ Static Website Hosting
-- ✔ DNS Configuration
-- ✔ Cloud Deployment
-
----
-
-# 🏆 Achievements
-
-- 🥈 Runner-Up – Code Debugging & Innovate X (GYANMITRA'25)
-- 🥉 2nd Runner-Up – 24-Hour Hackathon, Kalasalingam University
-
----
-
-# 📜 Certifications
-
-- ✔ Google Cybersecurity Professional Certificate
-- ✔ AWS Cloud Practitioner (Udemy)
-- ✔ HackerRank SQL – Basic, Intermediate, Advanced
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vijay310504&show_icons=true&theme=tokyonight&hide_border=true" alt="Vijay's GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay310504&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vijay310504&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay310504&theme=tokyo-night" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vijay310504/vijay310504/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijay310504&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-# 💡 Quote
-
-> "Code with passion, learn continuously, and build solutions that make an impact."
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
-```
+A cloud-based chatbot solution designed to automate hotel customer queries and assist guests with room-related
