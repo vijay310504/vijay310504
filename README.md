@@ -1,4 +1,4 @@
-````html
+
 <!-- ======================================================= -->
 <!--                 PREMIUM GITHUB PROFILE                 -->
 <!--                       VIJAY N V                        -->
@@ -32,11 +32,11 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
-```java
+
 public class Vijay {
 
     String name = "Vijay N V";
@@ -65,7 +65,7 @@ public class Vijay {
     String careerGoal =
         "Java Developer | Backend Developer | Software Engineer";
 }
-````
+
 
 🎓 Computer Science and Engineering graduate from Kalasalingam Academy of Research and Education.
 
@@ -203,4 +203,199 @@ A role-based interview management application designed to support interview sche
 
 **AWS Lex | Amazon S3 | HTML | CSS | JavaScript**
 
-A cloud-based chatbot solution designed to automate hotel customer queries and assist guests with room-related
+A cloud-based chatbot solution designed to automate hotel customer queries and assist guests with room-related requests.
+
+**Key Features**
+
+* 💬 Natural-language customer interactions.
+* 🏨 Room availability and booking assistance.
+* ⚙️ Conversational flows using intents and slots.
+* ☁️ Static website hosting using Amazon S3.
+* 🌐 Responsive web interface.
+
+**Tech Stack**
+
+`AWS Lex` `Amazon S3` `HTML` `CSS` `JavaScript`
+
+---
+
+### ☎️ Telecom Billing Management System
+
+**Python | MySQL**
+
+A database-driven application focused on customer information and telecom billing workflows.
+
+**Key Features**
+
+* 👥 Customer management.
+* 🧾 Billing calculations and processing.
+* 📞 Call record processing.
+* 🗄️ SQL database operations.
+
+**Tech Stack**
+
+`Python` `MySQL` `SQL`
+
+---
+
+## ☁️ Cloud Experience
+
+### Static Hotel Website Hosting — AWS
+
+* Configured static website hosting using Amazon S3.
+* Worked with DNS configuration using Amazon Route 53.
+* Explored cloud-based website deployment and hosting workflows.
+
+**Technologies:** `Amazon S3` `Amazon Route 53` `AWS`
+
+---
+
+## 💼 Internship Experience
+
+### Shiash Info Solution
+
+**Backend Development Intern | June 2024 – July 2024**
+
+* Developed backend modules using Python and SQL.
+* Supported database operations and data handling.
+* Assisted with debugging and software testing.
+* Contributed to software development workflows throughout the SDLC.
+
+---
+
+## 🎓 Education
+
+**B.Tech — Computer Science and Engineering**
+
+Kalasalingam Academy of Research and Education
+
+📍 Krishnankoil, India
+
+📅 2022 – 2026
+
+📊 CGPA: 7.81 / 10.0
+
+---
+
+## 📜 Certifications
+
+* Google Cybersecurity Professional Certificate
+* AWS Cloud Practitioner — Udemy
+* HackerRank SQL Skills Certification — Basic, Intermediate, and Advanced
+
+---
+
+## 🏆 Achievements
+
+🥈 **Runner-Up — Code Debugging & Innovate X**
+
+GYANMITRA'25, Mepco Engineering College | February 2025
+
+🥉 **Second Runner-Up — 24-Hour Hackathon**
+
+Kalasalingam University | February 2025
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vijay310504&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay310504&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=vijay310504&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay310504&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🧰 Tools I Use
+
+<div align="center">
+
+| Category        | Technologies                            |
+| --------------- | --------------------------------------- |
+| Programming     | Java, Python                            |
+| Frontend        | HTML5, CSS3, JavaScript, Bootstrap      |
+| Backend         | Spring Boot, Spring Security, REST APIs |
+| Database        | MySQL, SQL                              |
+| ORM             | JPA, Hibernate                          |
+| Cloud           | AWS, Amazon S3, Amazon Lex, Route 53    |
+| Version Control | Git, GitHub                             |
+| IDEs            | IntelliJ IDEA, VS Code                  |
+| Core Concepts   | DSA, OOP, MVC, Database Design, SDLC    |
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijay310504/vijay310504/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijay310504/vijay310504/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/vijay310504/vijay310504/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+I'm interested in connecting with developers, collaborating on software projects, and exploring Java development opportunities.
+
+<br/><br/>
+
+  <a href="https://www.linkedin.com/in/vijaynv31">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+
+  <a href="mailto:nvvijay10@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  </a>
+
+<br/><br/>
+
+<i>"Build with purpose. Learn continuously. Improve with every commit."</i>
+
+<br/><br/>
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:1D4ED8,100:0F172A&height=8&section=footer" width="100%"/>
+```
+
+## ✨ Three things to do after adding this README
+
+1. **Add your DR.CARCARE repository link.** Once the project is on GitHub, uncomment the Source Code button and replace the placeholder with your actual repository URL.
+2. **Set up the contribution snake.** The image requires a GitHub Actions workflow; the README alone won't generate the animation.
+3. **Verify your LinkedIn URL.** I've used the profile address from your existing README. Make sure it opens your actual profile.
+
+**Premium tip:** Your most important project should be the first one recruiters see. Keep DR.CARCARE at the top, and once it's deployed, display both its live demo and source code.
