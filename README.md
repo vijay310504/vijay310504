@@ -32,39 +32,22 @@
 
 </div>
 
-
-
 ## 👨‍💻 About Me
 
+🎓 **Computer Science and Engineering Graduate**  
+Kalasalingam Academy of Research and Education
 
-public class Vijay {
+💻 **Full Stack Java Developer** passionate about building secure, scalable, and user-friendly web applications.
 
-    String name = "Vijay N V";
-    String degree = "B.Tech Computer Science and Engineering";
+- 🔭 Deployed a **DR.CARCARE — Vehicle Service Management System** 
+- 🌱 Improving my skills in **Spring Security, Microservices, AWS, and System Design**
+- ⚙️ Experienced with **Java, Spring Boot, REST APIs, MySQL, JPA, and Hibernate**
+- 🔐 Interested in **JWT Authentication, Role-Based Access Control, and Backend Development**
+- ☁️ Exploring **AWS Cloud and Application Deployment**
+- 🎯 Career goal: **Java Developer | Backend Developer | Software Engineer**
+- 🤝 Open to collaborating on software development projects and exploring career opportunities.
 
-    String[] primarySkills = {
-        "Java",
-        "Spring Boot",
-        "Spring Security",
-        "REST APIs",
-        "MySQL",
-        "JPA",
-        "Hibernate"
-    };
-
-    String[] interests = {
-        "Backend Development",
-        "Full Stack Development",
-        "Cloud Computing",
-        "Software Engineering"
-    };
-
-    String currentFocus =
-        "Building secure and scalable web applications";
-
-    String careerGoal =
-        "Java Developer | Backend Developer | Software Engineer";
-}
+---
 
 
 🎓 Computer Science and Engineering graduate from Kalasalingam Academy of Research and Education.
