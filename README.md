@@ -1,25 +1,9 @@
-## Hi there 👋
-
-<!--
-**vijay310504/vijay310504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+```html
 <h1 align="center">Hi 👋, I'm Vijay N V</h1>
 <h3 align="center">Full Stack Java Developer | Software Developer | AWS Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+Developer;Java+%7C+MySQL+%7C+AWS+Cloud;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+REST+API+Developer;Java+%7C+MySQL+%7C+AWS+Cloud;Always+Learning+New+Technologies;Open+to+Software+Developer+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +12,7 @@ Here are some ideas to get you started:
 
 🎓 B.Tech Computer Science and Engineering Graduate
 
-💼 Passionate Full Stack Java Developer with hands-on experience in developing scalable web applications using Java, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript, and AWS.
+💼 Passionate Full Stack Java Developer with hands-on experience in developing web applications using Java, Spring Boot, REST APIs, MySQL, HTML, CSS, JavaScript, and AWS.
 
 🚀 Strong understanding of:
 - Data Structures & Algorithms
@@ -36,6 +20,8 @@ Here are some ideas to get you started:
 - Database Design
 - REST API Development
 - Backend Development
+- MVC Architecture
+- Authentication and Authorization
 
 🌱 Currently improving my skills in:
 - Spring Security
@@ -50,19 +36,15 @@ Here are some ideas to get you started:
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="www.linkedin.com/in/vijaynv31">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vijay310504">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:nvvijay10@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/vijaynv31">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vijay310504">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:nvvijay10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -72,126 +54,131 @@ Here are some ideas to get you started:
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python" alt="Java, Python"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="HTML, CSS, JavaScript, Bootstrap"/>
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql" alt="Spring Boot, MySQL"/>
 </p>
 
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
 </p>
 
-### Tools
+### Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code, IntelliJ IDEA"/>
 </p>
 
 ---
 
-# 🚀 Current Projects
+# 🚀 Featured Projects
 
-### 🎯 Smart Interview Management System
+## 🚗 DR.CARCARE – Vehicle Service Management System
 
-- Java
-- Spring Boot
-- JWT Authentication
-- REST APIs
-- MySQL
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+**Full-Stack Web Application | Java | Spring Boot | MySQL | JavaScript**
 
-✔ Role-based Authentication
+Engineered a full-stack vehicle service management platform using Java, Spring Boot, MySQL, REST APIs, and MVC architecture to streamline garage operations and vehicle servicing workflows.
 
-✔ Candidate Management
+### ✨ Key Features
 
-✔ Interview Scheduling
+- 🔐 **Secure Authentication & Authorization:** Implemented Spring Security and JWT-based authentication with role-based access control for Admin and Customer modules.
+- 🗄️ **Database Management:** Designed and managed relational data using MySQL, JPA, and Hibernate for customer, vehicle, booking, appointment, and service-history workflows.
+- 🔧 **Vehicle & Service Management:** Developed workflows for vehicle registration, service bookings, appointment management, and service-history tracking.
+- 🌐 **Responsive Frontend:** Built a responsive interface using HTML5, CSS3, and JavaScript with REST API integration.
+- 📊 **Garage Operations:** Supported customer management, vehicle management, service tracking, and administrative operations through dedicated application modules.
 
-✔ Coding Assessments
+### 🛠️ Tech Stack
 
-✔ Feedback System
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js" alt="Java, Spring Boot, MySQL, HTML, CSS, JavaScript"/>
+</p>
 
----
-
-### 🤖 Hotel Management Chatbot
-
-- AWS Lex
-- Cloud Computing
-
-✔ Natural Language Processing
-
-✔ Room Booking Assistant
-
-✔ Customer Query Automation
+**Core Technologies:** Java 21 | Spring Boot | Spring Security | JWT | REST APIs | MVC Architecture | Spring Data JPA | Hibernate | MySQL | HTML5 | CSS3 | JavaScript
 
 ---
 
-### ☎ Telecom Billing Management System
+## 🎯 Smart Interview Management System
 
-- Python
-- MySQL
+**Java | Spring Boot | JWT | MySQL | HTML | CSS | Bootstrap | JavaScript**
 
-✔ Customer Management
+### ✨ Key Features
 
-✔ Billing Engine
-
-✔ Call Record Processing
+- ✔ Role-based Authentication
+- ✔ Candidate Management
+- ✔ Interview Scheduling
+- ✔ Coding Assessments
+- ✔ Feedback Management
 
 ---
 
-### 🌐 Static Hotel Website Hosting
+## 🤖 Hotel Management Chatbot
 
-- Amazon S3
-- Route53
+**AWS Lex | Cloud Computing**
 
-✔ Static Website Hosting
+### ✨ Key Features
 
-✔ DNS Configuration
+- ✔ Natural Language Processing
+- ✔ Room Booking Assistance
+- ✔ Automated Customer Query Handling
 
-✔ Cloud Deployment
+---
+
+## ☎ Telecom Billing Management System
+
+**Python | MySQL**
+
+### ✨ Key Features
+
+- ✔ Customer Management
+- ✔ Billing Engine
+- ✔ Call Record Processing
+
+---
+
+## 🌐 Static Hotel Website Hosting
+
+**Amazon S3 | Amazon Route 53**
+
+### ✨ Key Features
+
+- ✔ Static Website Hosting
+- ✔ DNS Configuration
+- ✔ Cloud Deployment
 
 ---
 
 # 🏆 Achievements
 
-🥈 Runner-Up – Code Debugging & Innovate X (GYANMITRA'25)
-
-🥉 2nd Runner-Up – 24-Hour Hackathon, Kalasalingam University
+- 🥈 Runner-Up – Code Debugging & Innovate X (GYANMITRA'25)
+- 🥉 2nd Runner-Up – 24-Hour Hackathon, Kalasalingam University
 
 ---
 
 # 📜 Certifications
 
-✔ Google Cybersecurity Professional Certificate
-
-✔ AWS Cloud Practitioner (Udemy)
-
-✔ HackerRank SQL (Basic, Intermediate, Advanced)
+- ✔ Google Cybersecurity Professional Certificate
+- ✔ AWS Cloud Practitioner (Udemy)
+- ✔ HackerRank SQL – Basic, Intermediate, Advanced
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vijay310504&show_icons=true&theme=tokyonight&hide_border=true" alt="Vijay's GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay310504&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -199,19 +186,7 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🛠 Tools & IDEs
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,mysql" />
-
+  <img src="https://streak-stats.demolab.com?user=vijay310504&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -219,9 +194,7 @@ Here are some ideas to get you started:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay310504&theme=tokyo-night" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -229,9 +202,7 @@ Here are some ideas to get you started:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/vijay310504/vijay310504/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
@@ -239,9 +210,7 @@ Here are some ideas to get you started:
 # 👀 Visitor Count
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=vijay310504&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -252,6 +221,5 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+```
